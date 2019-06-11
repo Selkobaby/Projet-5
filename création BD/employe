@@ -1,0 +1,10 @@
+INSERT INTO public.employe(
+pizzeria_id, compte_id, statut
+) VALUES 
+(1, 1, 'manager'), (1, 2, 'cuisinier'), (1, 3, 'livreur'),
+(2, 4, 'manager'), (2, 5, 'cuisinier'), (2, 6, 'livreur'),
+(3, 7, 'manager'), (3, 8, 'cuisinier'), (3, 9, 'livreur'),
+(4, 10, 'manager'), (4, 11, 'cuisinier'), (4, 12, 'livreur'),
+(5, 13, 'manager'), (5, 14, 'cuisinier'), (5, 15, 'livreur');
+
+

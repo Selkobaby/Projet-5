@@ -1,0 +1,15 @@
+INSERT INTO public.produit (
+nom, description, prix_ht, prix_ttc
+) VALUES 
+('americaine', 'base sauce tomate, viande haché, fromage, sauce barbecue', 12.50, 15),
+('classic jambon', 'base sauce tomate, mozzarella, jambon', 12.50, 15),
+('bellacho', 'Sauce tomate, mozzarella, chorizo, merguez & poivrons mélangés', 12.50, 15),
+('deluxe', 'Sauce tomate, mozzarella, boulettes de boeuf assaisonnées, champignons, oignons, poivrons mélangés', 12.50, 15),
+('super veggie', 'Sauce tomate, mozzarella, tomates cerises marinées, poivrons mélangés, oignons, jeunes pousses épinards & olives noires', 12.50, 15),
+('chorizo', 'Sauce tomate, mozzarella, chorizo, poivrons mélangés, tomates cerises marinées, oignons, jeunes pousses épinards & olives noires', 12.50, 15),
+('veggane peppina', 'Sauce tomate, râpé vegan, champignons, oignons, poivrons mélangés, olives noires, tomates fraîches et origan', 12.50, 15),
+('vegan margharita', 'Sauce tomate, râpé vegan, champignons, oignons, poivrons mélangés, olives noires, tomates fraîches et origan', 12.50, 15),
+('bacon groovy', 'Crème fraîche légère, mozzarella, poulet rôti, oignons, bacon, sauce barbecue', 12.50, 15),
+('hawaienne', 'Sauce tomate, mozzarella, poulet rôti, ananas', 12.50, 15),
+('indienne', 'Crème fraîche légère, mozzarella, oignons, poulet rôti, champignons & emmental', 12.50, 15),
+('pecheur', 'Sauce tomate, mozzarella, oignons, thon, olives noires & crème fraîche légère', 12.50, 15);

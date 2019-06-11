@@ -1,0 +1,4 @@
+INSERT INTO public.statut_commande (
+statut
+) VALUES 
+('en attente de preparation'), ('en cours de preparation'), ('pret'), ('en cours de livraison'), ('livrer');

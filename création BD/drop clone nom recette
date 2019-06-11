@@ -1,0 +1,1 @@
+ALTER TABLE public.recette DROP COLUMN nom;

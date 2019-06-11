@@ -1,0 +1,13 @@
+INSERT INTO public.compte (
+nom, prenom, adresse, code_postale, ville, telephone, mail, mot_de_passe
+) VALUES 
+('dupont', 'henry', '12 rue francois rude', '77100', 'meaux', '0623467689', 'duponthenry@hotmail.fr', '22345'),
+('tyson', 'mike', '43 rue rene bazin', '77100', 'meaux', '0611111111', 'tysonmike@hotmail.fr', 'tysonch'),
+('ronaldo', 'cristiano', '14 rue jean jaures', '77100', 'nanteuil-les-meaux', '0654342189', 'cristianoronaldo@hotmail.fr', 'CR7'),
+('messi', 'lionel', '12 rue jean barrault', '77100', 'mareuil-les-meaux', '0655443322', 'lionelmessi@hotmail.fr', 'lionelmes'),
+('cassius', 'clay', '39 rue paul barenne', '77100', 'mareuil-les-meaux', '0611997766', 'cassiusclay@hotmail.fr', 'mohamedali'),
+('henry', 'thierry', '67 boulevard aristide briand', '77124', 'villenoy', '0699998899', 'thierryhenry@hotmail.fr', 'arsenal14'),
+('hazard', 'eden', '59 rue de paris', '77100', 'meaux', '0677777766', 'edenhazard@hotmail.fr', 'hazardeden'),
+('ramos', 'sergio', '1 rue buffon', '77124', 'villenoy', '0611220000', 'sergioramos@hotmail.fr', 'sergioramo'),
+('gheorge', 'hagi', '4 rue louis bunuel', '77100', 'Meaux', '0654678900', 'hagi10@hotmail.fr', 'hagi10'),
+('anderson', 'pamela', '89 rue jacques amiot', '77124', 'villenoy', '0655123412', 'pamelaanderson@hotmail.fr', 'pamander');

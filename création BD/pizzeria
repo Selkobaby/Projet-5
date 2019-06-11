@@ -1,0 +1,10 @@
+INSERT INTO public.pizzeria (
+adresse, code_postale, ville, telephone, mail
+) VALUES 
+('35 rue cristiano ronaldo', '77100', 'meaux', '0164331543', 'ocmeaux@hotmail.fr'),
+('22 avenue carl marx', '77100', 'mareuil les meaux', '0164772891', 'ocmareuil-les-meaux@hotmail.fr'),
+('12 rue manteau', '77124', 'villenoy', '0164568899', 'ocvillenoy@hotmail.fr'),
+('10 rue lyon', '77760', 'quincy voisins', '0134551100', 'ocquincy-voisins@hotmail.fr'),
+('56 rue jean vilar', '77700', 'chessy', '0176445511', 'occhessy@hotmail.fr'),
+('67 rue golem', '77700', 'serris', '0189445566', 'ocserris@hotmail.fr'),
+('17 rue du pont', '77100', 'nanteuil les meaux', '0165778800', 'ocnanteuil-les-meaux@hotmail.fr');

@@ -1,0 +1,10 @@
+INSERT INTO public.livraison(
+adresse, commande_id, employe_id
+) VALUES 
+('4 rue mike tyson 77124 villenoy', 1, 1), ('4 rue mike tyson 77124 villenoy', 2, 1), ('4 rue mike tyson 77124 villenoy', 1, 2), ('4 rue mike tyson 77124 villenoy', 2, 2), ('4 rue mike tyson 77124 villenoy', 1, 3), ('4 rue mike tyson 77124 villenoy', 2, 3),
+('10 rue newton 77100 meaux', 3, 4), ('10 rue newton 77100 meaux', 3, 5), ('10 rue newton 77100 meaux', 3, 6),
+('15 rue francois rude 77100 mareuil les meaux', 4, 7), ('15 rue francois rude 77100 mareuil les meaux', 5, 7), ('15 rue francois rude 77100 mareuil les meaux', 6, 7), ('15 rue francois rude 77100 mareuil les meaux', 4, 8), ('15 rue francois rude 77100 mareuil les meaux', 5, 8), ('15 rue francois rude 77100 mareuil les meaux', 6, 8), ('15 rue francois rude 77100 mareuil les meaux', 4, 9), ('15 rue francois rude 77100 mareuil les meaux', 5, 9), ('15 rue francois rude 77100 mareuil les meaux', 6, 9),
+('56 avenue foch 77100 meaux', 7, 10), ('56 avenue foch 77100 meaux', 8, 10), ('56 avenue foch 77100 meaux', 9, 10), ('56 avenue foch 77100 meaux', 7, 11), ('56 avenue foch 77100 meaux', 8, 11), ('56 avenue foch 77100 meaux', 9, 11), ('56 avenue foch 77100 meaux', 7, 12), ('56 avenue foch 77100 meaux', 8, 12), ('56 avenue foch 77100 meaux', 9, 12),
+('6 avenue de la republique 77124 villenoy', 10, 13), ('6 avenue de la republique 77124 villenoy', 10, 14), ('6 avenue de la republique 77124 villenoy', 10, 15);
+
+

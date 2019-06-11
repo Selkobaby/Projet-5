@@ -1,0 +1,8 @@
+INSERT INTO public.ingredient (
+nom, quantite
+) VALUES 
+('maïs', 4), ('olive', 10), ('sauce tomate', 30), ('fromage', 8), ('mozzarella', 5),
+('merguez', 7), ('poulet', 4), ('jambon', 5), ('epinard', 3), ('saumon', 3), ('thon', 3),
+('creme fraiche', 20), ('chorizo', 5), ('oignon', 4), ('poivron', 8), ('champignon', 4),
+('boeuf', 5), ('tomate cerise', 4), ('bacon', 6), ('saucisson', 4), ('tomate', 7),
+('ananas', 2);
